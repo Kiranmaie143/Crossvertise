@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Crossvertise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\events\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\controllers\\eventscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\event.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\events\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\migrations\\20240504131351_addeventstabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240504131351_addeventstabletodb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\models\\appointment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|d:\\crossvertise\\webapplication1\\migrations\\20240504133950_updateevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FEBA712A-F2C2-40F2-893E-C584891B0B60}|WebApplication1\\WebApplication1.csproj|solutionrelative:webapplication1\\migrations\\20240504133950_updateevents.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Views\\Events\\Index.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Events\\Index.cshtml",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Views\\Events\\Index.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Events\\Index.cshtml",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAqwCAAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T13:44:23.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240504133950_UpdateEvents.cs",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Migrations\\20240504133950_UpdateEvents.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240504133950_UpdateEvents.cs",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Migrations\\20240504133950_UpdateEvents.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240504133950_UpdateEvents.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:39:50.703Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Views\\Events\\Create.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Events\\Create.cshtml",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Views\\Events\\Create.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Events\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T13:28:32.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EventsController.cs",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Controllers\\EventsController.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Controllers\\EventsController.cs",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Controllers\\EventsController.cs",
+              "RelativeToolTip": "WebApplication1\\Controllers\\EventsController.cs",
+              "ViewState": "AQIAAGAAAAAAAAAAAAAAADwAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:21:28.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:14:45.124Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20240504131351_AddEventsTableToDb.cs",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Migrations\\20240504131351_AddEventsTableToDb.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Migrations\\20240504131351_AddEventsTableToDb.cs",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Migrations\\20240504131351_AddEventsTableToDb.cs",
+              "RelativeToolTip": "WebApplication1\\Migrations\\20240504131351_AddEventsTableToDb.cs",
+              "ViewState": "AQIAAC8AAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T13:13:51.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Event.cs",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Models\\Event.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Event.cs",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Models\\Event.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Event.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T12:58:57.875Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "WebApplication1\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAqwBwAAAB3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-05-04T13:22:00.443Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Program.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Program.cs",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Program.cs",
+              "RelativeToolTip": "WebApplication1\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:40:23.745Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "WebApplication1\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAswA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:34:59.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Appointment.cs",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\Models\\Appointment.cs",
+              "RelativeDocumentMoniker": "WebApplication1\\Models\\Appointment.cs",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\Models\\Appointment.cs",
+              "RelativeToolTip": "WebApplication1\\Models\\Appointment.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-04T11:29:42.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Crossvertise\\WebApplication1\\appsettings.json",
+              "RelativeDocumentMoniker": "WebApplication1\\appsettings.json",
+              "ToolTip": "D:\\Crossvertise\\WebApplication1\\appsettings.json",
+              "RelativeToolTip": "WebApplication1\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-04T11:26:54.218Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
